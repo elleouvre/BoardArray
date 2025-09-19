@@ -16,6 +16,27 @@ class BoardArray : public Board {
         void add(Entry* entry) {
             // TODO: IMPLEMENT THIS FUNCTION
             // ALGORITHM IS PROVIDED IN INSTRUCTIONS.TXT
+            for(int i = 0; i < index; i++) {
+                array[i].compare;
+            }
+
+            bool compare(Entry* entry) {
+                array[i * sizeof(Entry)];
+                if() {
+                    .
+                } even if(score < entry) {
+                    cout << "<name>'s score is too low to be added!";
+                }
+            }
+
+            bool compare(Entry* other) {
+                return this->score > other->score;
+            }
+
+            void print() {
+                cout << name << " (" << college << "): " << score << endl;
+            }
+
             return;
         }
 
